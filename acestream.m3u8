@@ -1,717 +1,716 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080  5789" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="(ACE) DAZN F1",DAZN F1 1080  5789
-acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTM3U#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080  5789" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="(ACE) DAZN F1",DAZN F1 1080  5789
+5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080  9dad" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="(ACE) DAZN F1",DAZN F1 1080  9dad
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
+9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 720  e1fc" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" group-title="(ACE) DAZN F1",DAZN F1 720  e1fc
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="M. LaLiga 1080 MultiAudio  7d8c" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="(ACE) M+ LaLiga",M. LaLiga 1080 MultiAudio  7d8c
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="M. LaLiga 1080 MultiAudio  1969" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="(ACE) M+ LaLiga",M. LaLiga 1080 MultiAudio  1969
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
+1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="M. LaLiga 720  f031" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="(ACE) M+ LaLiga",M. LaLiga 720  f031
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
+f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="M. LaLiga 2 1080  37d4" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="(ACE) M+ LaLiga",M. LaLiga 2 1080  37d4
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="M. LaLiga 2 720  91cf" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="(ACE) M+ LaLiga",M. LaLiga 2 720  91cf
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="M. LaLiga 3 1080  4c48" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="(ACE) M+ LaLiga",M. LaLiga 3 1080  4c48
-acestream://4c4844564313e39a888f593511f299f5ba3cf929
+4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="M. LaLiga 4 1080  aa8f" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="(ACE) M+ LaLiga",M. LaLiga 4 1080  aa8f
-acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="M. LaLiga 5 1080  5353" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="(ACE) M+ LaLiga",M. LaLiga 5 1080  5353
-acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
+535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="M. LaLiga 6 1080  c896" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="(ACE) M+ LaLiga",M. LaLiga 6 1080  c896
-acestream://c896d37778f9e43549a788fc22206a655895b51b
+c896d37778f9e43549a788fc22206a655895b51b
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 1080 MultiAudio  1960" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 1080 MultiAudio  1960
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 1080 MultiAudio  7525" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 1080 MultiAudio  7525
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
+75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 720  a3bc" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 720  a3bc
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 1080 MultiAudio  93d6" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 2 1080 MultiAudio  93d6
-acestream://93d663e92a93845b11c9831885646fa39ba1ed66
+93d663e92a93845b11c9831885646fa39ba1ed66
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 720 MultiAudio  0950" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 2 720 MultiAudio  0950
-acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
+0950c37fe1ea817fc561c611ae943d58505f7a79
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 3 1080 MultiAudio  8c71" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 3 1080 MultiAudio  8c71
-acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
+8c71f0e0a5476e10950fc827f9d2a507340aba74
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 4 1080 MultiAudio  2792" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 4 1080 MultiAudio  2792
-acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
+2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga 5 1080 MultiAudio  99e5" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 5 1080 MultiAudio  99e5
-acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
+99e544cddbee13798e854c1009ee7d1a93fdedf7
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M.L. Campeones 1080 MultiAudio  a4ee" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Champions",M.L. Campeones 1080 MultiAudio  a4ee
-acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816
+a4ee6f9590351d2c88c416f9962af82c7e1ce816
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M.L. Campeones 1080 MultiAudio  0457" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Champions",M.L. Campeones 1080 MultiAudio  0457
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M.L. Campeones 720  90be" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Champions",M.L. Campeones 720  90be
-acestream://90beb42e9e276854348bc91a9ff3c3e46c617495
+90beb42e9e276854348bc91a9ff3c3e46c617495
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M.L. Campeones 2 1080  dfff" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" group-title="(ACE) M+ Champions",M.L. Campeones 2 1080  dfff
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M.L. Campeones 2 720  2d58" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" group-title="(ACE) M+ Champions",M.L. Campeones 2 720  2d58
-acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
+2d584c7335ff44f97c3cf64947892ef30fde715c
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M.L. Campeones 3 1080  ecf4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="(ACE) M+ Champions",M.L. Campeones 3 1080  ecf4
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
+ecf4ec41200785812c140e3d1050b412f1519fa7
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M.L. Campeones 3 720  d59f" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="(ACE) M+ Champions",M.L. Campeones 3 720  d59f
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4 HD" tvg-name="M.L. Campeones 4 SD  1a1b" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" group-title="(ACE) M+ Champions",M.L. Campeones 4 SD  1a1b
-acestream://1a1b528109edead1904e3dbff575637a452dd1fa
+1a1b528109edead1904e3dbff575637a452dd1fa
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 5 HD" tvg-name="M.L. Campeones 5 SD  4b4a" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" group-title="(ACE) M+ Champions",M.L. Campeones 5 SD  4b4a
-acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
+4b4a77f005ea45e57276ff9d90c3830b3c59010d
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 6 HD" tvg-name="M.L. Campeones 6 SD  e995" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="(ACE) M+ Champions",M.L. Campeones 6 SD  e995
-acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
+e9950ec551124c490ecbc2526a83d2c5a4516293
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 7 HD" tvg-name="M.L. Campeones 7 SD  d84a" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" group-title="(ACE) M+ Champions",M.L. Campeones 7 SD  d84a
-acestream://d84a90adb6998083403f610ab3fae340b5711b1e
+d84a90adb6998083403f610ab3fae340b5711b1e
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 8 HD" tvg-name="M.L. Campeones 8 SD  fdd9" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" group-title="(ACE) M+ Champions",M.L. Campeones 8 SD  fdd9
-acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+fdd9e3660059051660dbd7857443c2b807f258d0
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 9 HD" tvg-name="M.L. Campeones 9 SD  69c9" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Champions",M.L. Campeones 9 SD  69c9
-acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
+69c95dc47b35dde559a6ef025c1b91c89646a17f
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 10 HD" tvg-name="M.L. Campeones 10 SD  df67" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Champions",M.L. Campeones 10 SD  df67
-acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
+df67afe5c5f5e82a3ae629d126727b006b65e676
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 11 HD" tvg-name="M.L. Campeones 11 SD  57e2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Champions",M.L. Campeones 11 SD  57e2
-acestream://57e284a3c13100baeff7a88dc50949585c9f1277
+57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 12 HD" tvg-name="M.L. Campeones 12 SD  3336" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Champions",M.L. Campeones 12 SD  3336
-acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 1080  8ca0" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="(ACE) DAZN",DAZN 1 1080  8ca0
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
+8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 720  eaff" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="(ACE) DAZN",DAZN 1 720  eaff
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 1080  60db" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="(ACE) DAZN",DAZN 2 1080  60db
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 720  7aa4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="(ACE) DAZN",DAZN 2 720  7aa4
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+7aa402bab9fff43258fbcf401881a39475f30aaf
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 1080  a8ff" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="(ACE) DAZN",DAZN 3 1080  a8ff
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 1080  2fcd" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" group-title="(ACE) DAZN",DAZN 4 1080  2fcd
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 tvg-id="M+ #VAMOS HD" tvg-name="#Vamos 1080  859b" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" group-title="(ACE) M+ Deportes",#Vamos 1080  859b
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-id="M+ #VAMOS HD" tvg-name="#Vamos 720  0e18" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" group-title="(ACE) M+ Deportes",#Vamos 720  0e18
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+0e18315b703248bb01eab6b9d3f0cb2cd893601f
 #EXTINF:-1 tvg-id="M+ Ellas #V HD" tvg-name="#Ellas 1080  6765" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqKK0A9bLjjrmoL23GSawBsgag9Q63grvjKwmRoKfHseFfXcmzHs8JCUlWJ-yyDLWnTw&usqp=CAU" group-title="(ACE) M+ Deportes",#Ellas 1080  6765
-acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 tvg-id="M+ DEPORTES HD" tvg-name="M. Deportes 1080  d002" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="(ACE) M+ Deportes",M. Deportes 1080  d002
-acestream://d00223931b1854163e24c5c22475015d7d45c112
+d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-id="M+ DEPORTES HD" tvg-name="M. Deportes 720  e5fa" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="(ACE) M+ Deportes",M. Deportes 720  e5fa
-acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+e5fa927d9a017f4523fdb62774a0aec457985bfa
 #EXTINF:-1 tvg-id="M+ DEPORTES 2 HD" tvg-name="M. Deportes 2 1080  e6f0" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" group-title="(ACE) M+ Deportes",M. Deportes 2 1080  e6f0
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-id="M+ DEPORTES 3" tvg-name="M. Deportes 3 1080  aee0" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" group-title="(ACE) M+ Deportes",M. Deportes 3 1080  aee0
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 #EXTINF:-1 tvg-id="M+ DEPORTES 4" tvg-name="M. Deportes 4 1080  42e8" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="(ACE) M+ Deportes",M. Deportes 4 1080  42e8
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+42e83c337ece0af9ca7808859f84c7960e9cb6f5
 #EXTINF:-1 tvg-id="M+ DEPORTES 5" tvg-name="M. Deportes 5 1080  b1e5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="(ACE) M+ Deportes",M. Deportes 5 1080  b1e5
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 tvg-id="M+ DEPORTES 6" tvg-name="M. Deportes 6 720  8587" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="(ACE) M+ Deportes",M. Deportes 6 720  8587
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 tvg-id="M+ GOLF HD" tvg-name="M. Golf 1080  4f94" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" group-title="(ACE) M+ Deportes",M. Golf 1080  4f94
-acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-id="M+ LALIGATV BAR" tvg-name="LaLiga TV Bar 1080  aa82" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="(ACE) M+ LaLiga BAR",LaLiga TV Bar 1080  aa82
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-name="LaLiga Smartbank 1080  4c46" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" group-title="(ACE) M+ LaLiga Smartbank",LaLiga Smartbank 1080  4c46
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-name="LaLiga Smartbank 720  06b3" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" group-title="(ACE) M+ LaLiga Smartbank",LaLiga Smartbank 720  06b3
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV M2 HD" tvg-name="LaLiga Smartbank 2 1080  cf62" tvg-logo="https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png" group-title="(ACE) M+ LaLiga Smartbank",LaLiga Smartbank 2 1080  cf62
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV M2 HD" tvg-name="LaLiga Smartbank 2 720  d9cf" tvg-logo="https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png" group-title="(ACE) M+ LaLiga Smartbank",LaLiga Smartbank 2 720  d9cf
-acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV M3 HD" tvg-name="LaLiga Smartbank 3  59ba" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank3.png" group-title="(ACE) M+ LaLiga Smartbank",LaLiga Smartbank 3  59ba
-acestream://59ba45b79152e4599144177b234f6491fc19db53
+59ba45b79152e4599144177b234f6491fc19db53
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-name="LaLiga Smartbank 4  2cac" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" group-title="(ACE) M+ LaLiga Smartbank",LaLiga Smartbank 4  2cac
-acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
+2cacf21476b036e319bcb7c7e747766e6ccc082e
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-name="LaLiga Smartbank 5  a114" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" group-title="(ACE) M+ LaLiga Smartbank",LaLiga Smartbank 5  a114
-acestream://a1146358aa50c99c887108b17f62f9264186a16a
+a1146358aa50c99c887108b17f62f9264186a16a
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-name="LaLiga Smartbank 6   7a9b" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" group-title="(ACE) M+ LaLiga Smartbank",LaLiga Smartbank 6   7a9b
-acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670
+7a9bb1b9cccb759c44ed84f3c1283922e6854670
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-name="LaLiga Smartbank 7   446e" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" group-title="(ACE) M+ LaLiga Smartbank",LaLiga Smartbank 7   446e
-acestream://446e73a22582921393b020ed08b768ad8e14d754
+446e73a22582921393b020ed08b768ad8e14d754
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-name="LaLiga Smartbank 8  4d52" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" group-title="(ACE) M+ LaLiga Smartbank",LaLiga Smartbank 8  4d52
-acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1 tvg-id="EUROSPORT 1 HD" tvg-name="EuroSport 1 1080  5e4c" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" group-title="(ACE) Otros deportes",EuroSport 1 1080  5e4c
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EuroSport 2 1080  c373" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" group-title="(ACE) Otros deportes",EuroSport 2 1080  c373
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
+c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL TV 1080  d462" tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" group-title="(ACE) Otros deportes",GOL TV 1080  d462
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
+d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="tdp 1080  e239" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="(ACE) Otros deportes",tdp 1080  e239
-acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 tvg-id="I217.33395.zap2it.com" tvg-name="Tennis Channel  9292" tvg-logo="https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg" group-title="(ACE) Otros deportes",Tennis Channel  9292
-acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
+9292d3b32432efb56db4014933cbdec0a7cf2e36
 #EXTINF:-1 tvg-id="Sport TV1 POR HD" tvg-name="Sport TV 1 1080  ce23" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" group-title="(ACE) Otros deportes",Sport TV 1 1080  ce23
-acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de
+ce235921dac95e1da2dd5e54673c2fecb9e806de
 #EXTINF:-1 tvg-id="Sport TV2 POR HD" tvg-name="Sport TV 2 1080  396d" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" group-title="(ACE) Otros deportes",Sport TV 2 1080  396d
-acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
+396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 tvg-id="Sport TV3 POR HD" tvg-name="Sport TV 3 1080  f8cb" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" group-title="(ACE) Otros deportes",Sport TV 3 1080  f8cb
-acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="beIN SPORTS ñ  41af" tvg-logo="https://i.imgur.com/XcjYBfj.png" group-title="(ACE) Otros deportes",beIN SPORTS ñ  41af
-acestream://41af6926a6010b68ba2540975761436bb077748f
+41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 tvg-id="Barça TV" tvg-name="Barça 720  e336" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" group-title="(ACE) Otros deportes",Barça 720  e336
-acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1 tvg-id="I249.19158.schedulesdirect.org" tvg-name="ESPN COLOMBIA  2492" tvg-logo="https://telegra.ph/file/1c26a0d324322f91a369e.jpg" group-title="(ACE) Otros deportes",ESPN COLOMBIA  2492
-acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 #EXTINF:-1 tvg-id="I898.65930.schedulesdirect.org" tvg-name="ESPN EXTRA COLOMBIA   9c3f" tvg-logo="https://telegra.ph/file/08927c1764c7fe25def94.jpg" group-title="(ACE) Otros deportes",ESPN EXTRA COLOMBIA   9c3f
-acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1 tvg-id="I254.37747.schedulesdirect.org" tvg-name="ESPN 2 COLOMBIA  e40b" tvg-logo="https://telegra.ph/file/e1e320f40b02ae8d04797.jpg" group-title="(ACE) Otros deportes",ESPN 2 COLOMBIA  e40b
-acestream://e40b29774fdfd953751a71f5695f647726623b9d
+e40b29774fdfd953751a71f5695f647726623b9d
 #EXTINF:-1 tvg-id="I261.79042.schedulesdirect.org" tvg-name="ESPN 3 COLOMBIA  b97f" tvg-logo="https://telegra.ph/file/2ec81705d153bf37a667e.jpg" group-title="(ACE) Otros deportes",ESPN 3 COLOMBIA  b97f
-acestream://b97f5975dbd067655432512d4693b417bc85a714
+b97f5975dbd067655432512d4693b417bc85a714
 #EXTINF:-1 tvg-id="SETANTA" tvg-name="SETANTA SPORTS 1080  7206" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU" group-title="(ACE) Otros deportes",SETANTA SPORTS 1080  7206
-acestream://72066549fbfd3f755853fe9467586b7debf01f60
+72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="La 1  02b9" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" group-title="(ACE) Otros",La 1  02b9
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="La 1 UHD  6636" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" group-title="(ACE) Otros",La 1 UHD  6636
-acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO 1080  e8ee" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" group-title="(ACE) Otros",CUATRO 1080  e8ee
-acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
+e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF:-1 tvg-id="BE MAD" tvg-name="BeMad 1080  5c26" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" group-title="(ACE) Otros",BeMad 1080  5c26
-acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
+5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="Telecinco 1080  bb19" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" group-title="(ACE) Otros",Telecinco 1080  bb19
-acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 #EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 M+ HD 1080  864f" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" group-title="(ACE) Otros",#0 M+ HD 1080  864f
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 tvg-ID="M+ LaLigaTV HD" tvg-name="M+ LaLigaTV 1080 multiaudio" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="(ACE) M+ LaLiga",M+ LaLigaTV 1080 multiaudio
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 tvg-ID="M+ LaLigaTV HD" tvg-name="M+ LaLigaTV 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="(ACE) M+ LaLiga",M+ LaLigaTV 1080
-acestream://8be2364be248cc9ee12d4ae5d65e45ec8c40f2d9
+8be2364be248cc9ee12d4ae5d65e45ec8c40f2d9
 #EXTINF:-1 tvg-ID="M+ LaLigaTV HD" tvg-name="M+ LaLigaTV 1080 multiaudio" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="(ACE) M+ LaLiga",M+ LaLigaTV 1080 multiaudio
-acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+d47addf5e467cbf102ba759600303c21efb1deeb
 #EXTINF:-1 tvg-ID="M+ LaLigaTV HD" tvg-name="M+ LaLigaTV 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="(ACE) M+ LaLiga",M+ LaLigaTV 1080
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 tvg-ID="M+ LaLigaTV HD" tvg-name="M+ LaLigaTV 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="(ACE) M+ LaLiga",M+ LaLigaTV 720
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
+f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 tvg-ID="M+ LaLigaTV HD" tvg-name="M+ LaLigaTV 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="(ACE) M+ LaLiga",M+ LaLigaTV 720
-acestream://d8512e64f34a117afb656f5c66cf8d88023c9570
+d8512e64f34a117afb656f5c66cf8d88023c9570
 #EXTINF:-1 tvg-ID="M+ LaLigaTV HD" tvg-name="M+ LaLigaTV 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="(ACE) M+ LaLiga",M+ LaLigaTV 720
-acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
+87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
 #EXTINF:-1 tvg-ID="M+ LaLigaTV 2 HD" tvg-name="M+ LaLigaTV 2 1080" tvg-logo="https://i.postimg.cc/dt8CsBmm/liga2.png" group-title="(ACE) M+ LaLiga",M+ LaLigaTV 2 1080
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-ID="M+ LaLigaTV 2 HD" tvg-name="M+ LaLigaTV 2 720" tvg-logo="https://i.postimg.cc/dt8CsBmm/liga2.png" group-title="(ACE) M+ LaLiga",M+ LaLigaTV 2 720
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1 tvg-ID="LaLigaTV Bar HD" tvg-name="M+ LaLiga TV BAR 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" group-title="(ACE) M+ LaLiga TV BAR",M+ LaLiga TV BAR 1080
-acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 tvg-ID="LaLigaTV Bar HD" tvg-name="M+ LaLiga TV BAR 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" group-title="(ACE) M+ LaLiga TV BAR",M+ LaLiga TV BAR 720
-acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
+e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga 1080 multiaudio" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 1080 multiaudio
-acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga 1080 multiaudio" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 1080 multiaudio
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga 1080" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 1080
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga 720" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 720
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" group-title="(ACE) DAZN LaLiga",DAZN LaLiga
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
+75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 tvg-ID="DAZN LaLiga HD" tvg-name="DAZN LaLiga" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" group-title="(ACE) DAZN LaLiga",DAZN LaLiga
-acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
+87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 #EXTINF:-1 tvg-ID="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 1080 multiaudio" tvg-logo="https://i.postimg.cc/28psx1TB/daznliga2.png" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 2 1080 multiaudio
-acestream://
+
 #EXTINF:-1 tvg-ID="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 720 multiaudio" tvg-logo="https://i.postimg.cc/28psx1TB/daznliga2.png" group-title="(ACE) DAZN LaLiga",DAZN LaLiga 2 720 multiaudio
-acestream://
+
 #EXTINF:-1 tvg-ID="LaLiga SmartbankTV HD" tvg-name="M+ LaLiga Smartbank 1080" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" group-title="(ACE) M+ LaLiga Smartbank",M+ LaLiga Smartbank 1080
-acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 tvg-ID="LaLiga SmartbankTV HD" tvg-name="M+ LaLiga Smartbank 720" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" group-title="(ACE) M+ LaLiga Smartbank",M+ LaLiga Smartbank 720
-acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTINF:-1 tvg-ID="LaLiga SmartbankTV HD" tvg-name="M+ LaLiga Smartbank" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" group-title="(ACE) M+ LaLiga Smartbank",M+ LaLiga Smartbank
-acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2
+3b50977af3acb17ecd8e463a94888dfbaea028d2
 #EXTINF:-1 tvg-ID="LaLiga SmartbankTV M2 HD" tvg-name="M+ LaLiga Smartbank 2 1080" tvg-logo="https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png" group-title="(ACE) M+ LaLiga Smartbank",M+ LaLiga Smartbank 2 1080
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 tvg-ID="LaLiga SmartbankTV M2 HD" tvg-name="M+ LaLiga Smartbank 2 720" tvg-logo="https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png" group-title="(ACE) M+ LaLiga Smartbank",M+ LaLiga Smartbank 2 720
-acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 #EXTINF:-1 tvg-ID="LaLiga SmartbankTV M3 HD" tvg-name="M+ LaLiga Smartbank 3 1080" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank3.png" group-title="(ACE) M+ LaLiga Smartbank",M+ LaLiga Smartbank 3 1080
-acestream://1104426e14b649eb23fee16698768544285de478
+1104426e14b649eb23fee16698768544285de478
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 1080 Multiaudio" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 1080 Multiaudio
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 1080 Multiaudio" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 1080 Multiaudio
-acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 1080 Multiaudio" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 1080 Multiaudio
-acestream://9a8ad8e7cd59aa673f60906f7fea72c577e7b788
+9a8ad8e7cd59aa673f60906f7fea72c577e7b788
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 1080
-acestream://b8363a54e561ab71f866a86d872fc8214a895262
+b8363a54e561ab71f866a86d872fc8214a895262
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 1080
-acestream://9eb14b4c13666a79bd18916ab65de6c81469d73d
+9eb14b4c13666a79bd18916ab65de6c81469d73d
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 720
-acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 720
-acestream://90beb42e9e276854348bc91a9ff3c3e46c617495
+90beb42e9e276854348bc91a9ff3c3e46c617495
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 2 1080
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 2 720
-acestream://b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
+b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 2 720
-acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
+2d584c7335ff44f97c3cf64947892ef30fde715c
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 2 720
-acestream://91dce080463a5c6ee931fc5489a75ab54a5cb071
+91dce080463a5c6ee931fc5489a75ab54a5cb071
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 3 1080
-acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
+bb9ec0db8db136f4fcd8986b8681048e2bd95bf1
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 3 1080
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
+ecf4ec41200785812c140e3d1050b412f1519fa7
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 3 720
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 4 1080
-acestream://297fab10d7364ca1991fa43fcff469573688ce7a
+297fab10d7364ca1991fa43fcff469573688ce7a
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 4
-acestream://1a1b528109edead1904e3dbff575637a452dd1fa
+1a1b528109edead1904e3dbff575637a452dd1fa
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 5
-acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
+4b4a77f005ea45e57276ff9d90c3830b3c59010d
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 6" tvg-name="M+ Liga de Campeones 6" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 6
-acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
+e9950ec551124c490ecbc2526a83d2c5a4516293
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 7
-acestream://d84a90adb6998083403f610ab3fae340b5711b1e
+d84a90adb6998083403f610ab3fae340b5711b1e
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 8" tvg-name="M+ Liga de Campeones 8" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 8
-acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+fdd9e3660059051660dbd7857443c2b807f258d0
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 9" tvg-name="M+ Liga de Campeones 9" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 9
-acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
+69c95dc47b35dde559a6ef025c1b91c89646a17f
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 10" tvg-name="M+ Liga de Campeones 10" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 10
-acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
+df67afe5c5f5e82a3ae629d126727b006b65e676
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 11" tvg-name="M+ Liga de Campeones 11" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 11
-acestream://57e284a3c13100baeff7a88dc50949585c9f1277
+57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 tvg-ID="M+ Liga de Campeones 12" tvg-name="M+ Liga de Campeones 12" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="(ACE) M+ Liga de Campeones",M+ Liga de Campeones 12
-acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 tvg-ID="M+ Deportes HD" tvg-name="M+ Deportes 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="(ACE) M+ Deportes",M+ Deportes 1080
-acestream://d00223931b1854163e24c5c22475015d7d45c112
+d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-ID="M+ Deportes HD" tvg-name="M+ Deportes 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="(ACE) M+ Deportes",M+ Deportes 1080
-acestream://d580d53613be09c7a5388d808509f6c97ec07df2
+d580d53613be09c7a5388d808509f6c97ec07df2
 #EXTINF:-1 tvg-ID="M+ Deportes HD" tvg-name="M+ Deportes 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="(ACE) M+ Deportes",M+ Deportes 720
-acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+e5fa927d9a017f4523fdb62774a0aec457985bfa
 #EXTINF:-1 tvg-ID="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" group-title="(ACE) M+ Deportes",M+ Deportes 2 1080
-acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
+e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-ID="M+ Deportes 3" tvg-name="M+ Deportes 3 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" group-title="(ACE) M+ Deportes",M+ Deportes 3 1080
-acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 #EXTINF:-1 tvg-ID="M+ Deportes 4" tvg-name="M+ Deportes 4 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="(ACE) M+ Deportes",M+ Deportes 4 1080
-acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+42e83c337ece0af9ca7808859f84c7960e9cb6f5
 #EXTINF:-1 tvg-ID="M+ Deportes 5" tvg-name="M+ Deportes 5 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="(ACE) M+ Deportes",M+ Deportes 5 1080
-acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 tvg-ID="M+ Deportes 6" tvg-name="M+ Deportes 6 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="(ACE) M+ Deportes",M+ Deportes 6 1080
-acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 tvg-ID="M+ Deportes 7" tvg-name="M+ Deportes 7 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="(ACE) M+ Deportes",M+ Deportes 7 1080
-acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
+2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 tvg-ID="M+ Golf HD" tvg-name="M+ Golf 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" group-title="(ACE) M+ Deportes",M+ Golf 1080
-acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-ID="M+ #Vamos HD" tvg-name="M+ #Vamos 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" group-title="(ACE) M+ Deportes",M+ #Vamos 1080
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-ID="M+ #Vamos HD" tvg-name="M+ #Vamos 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" group-title="(ACE) M+ Deportes",M+ #Vamos 1080
-acestream://87a043de5d4cd60c731bc00d09f13bad8d882164
+87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 tvg-ID="M+ #Vamos HD" tvg-name="M+ #Vamos 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" group-title="(ACE) M+ Deportes",M+ #Vamos 720
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+0e18315b703248bb01eab6b9d3f0cb2cd893601f
 #EXTINF:-1 tvg-ID="M+ #Vamos HD" tvg-name="M+ #Vamos 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" group-title="(ACE) M+ Deportes",M+ #Vamos 720
-acestream://b888712c494a93739d4f275806d7e4feb4c6d2f8
+b888712c494a93739d4f275806d7e4feb4c6d2f8
 #EXTINF:-1 tvg-ID="M+ Ellas #V HD" tvg-name="ELLAS #V 1080" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" group-title="(ACE) M+ Deportes",ELLAS #V 1080
-acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 tvg-ID="M+ Ellas #V HD" tvg-name="ELLAS #V" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" group-title="(ACE) M+ Deportes",ELLAS #V
-acestream://107acd31600d0fdcdbac2065171c39042f3369c7
+107acd31600d0fdcdbac2065171c39042f3369c7
 #EXTINF:-1 tvg-ID="Eurosport 1 HD" tvg-name="EuroSport 1 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" group-title="(ACE) EuroSport",EuroSport 1 1080
-acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-ID="Eurosport 1 HD" tvg-name="EuroSport 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" group-title="(ACE) EuroSport",EuroSport 1
-acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
+f8a77a75bf7572e360556339794d3d13fca8caa9
 #EXTINF:-1 tvg-ID="Eurosport 2" tvg-name="EuroSport 2 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" group-title="(ACE) EuroSport",EuroSport 2 1080
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
+c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 tvg-ID="Eurosport 2" tvg-name="EuroSport 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" group-title="(ACE) EuroSport",EuroSport 2
-acestream://b12bd6f32bbd53a2bbf182a30549fbdf747235cd
+b12bd6f32bbd53a2bbf182a30549fbdf747235cd
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1 1080 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="(ACE) DAZN F1/ SKY F1 / F1TV",DAZN F1 1080 FHD
-acestream://5789ca155323664edd293b848606688edf803f4d
+5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1 1080 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="(ACE) DAZN F1/ SKY F1 / F1TV",DAZN F1 1080 HD
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
+9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="(ACE) DAZN F1/ SKY F1 / F1TV",DAZN F1 1080
-acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+60cf60019aeef9af6183dd05af1b89e25594ac14
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="(ACE) DAZN F1/ SKY F1 / F1TV",DAZN F1 1080
-acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="(ACE) DAZN F1/ SKY F1 / F1TV",DAZN F1 720
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="(ACE) DAZN F1/ SKY F1 / F1TV",DAZN F1 720
-acestream://e3f3ffd375d2d22c09731a0a8f400581cced1401
+e3f3ffd375d2d22c09731a0a8f400581cced1401
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="(ACE) DAZN F1/ SKY F1 / F1TV",DAZN F1
-acestream://b13deca329dfd6b9a670faba1077b73f6ea7e188
+b13deca329dfd6b9a670faba1077b73f6ea7e188
 #EXTINF:-1 tvg-ID="ext" tvg-name="F1TV" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" group-title="(ACE) DAZN F1/ SKY F1 / F1TV",F1TV
-acestream://d945f6cb87407c23e5825cdfc8c4c23555767495
+d945f6cb87407c23e5825cdfc8c4c23555767495
 #EXTINF:-1 tvg-ID="SkySportF1Germany.de" tvg-name="Sky Sport F1 HD [DE]" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" group-title="(ACE) DAZN F1/ SKY F1 / F1TV",Sky Sport F1 HD [DE]
-acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-ID="SkySportsF1.uk" tvg-name="Sky Sport F1 UK HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" group-title="(ACE) DAZN F1/ SKY F1 / F1TV",Sky Sport F1 UK HD
-acestream://adda5870b69944fe305281efcc352d1d8a67359a
+adda5870b69944fe305281efcc352d1d8a67359a
 #EXTINF:-1 tvg-ID="ext" tvg-name="ONBOARD ALONSO" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" group-title="(ACE) DAZN F1/ SKY F1 / F1TV",ONBOARD ALONSO
-acestream://
+
 #EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="DAZN 1 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="(ACE) DAZN",DAZN 1 1080
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
+8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="DAZN 1 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="(ACE) DAZN",DAZN 1 1080
-acestream://c743d8d8d0d00c3d05a193b8f10ccf5253f20836
+c743d8d8d0d00c3d05a193b8f10ccf5253f20836
 #EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="(ACE) DAZN",DAZN 1
-acestream://ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c
+ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c
 #EXTINF:-1 tvg-ID="DAZN 1 HD" tvg-name="DAZN 1 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="(ACE) DAZN",DAZN 1 720
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 tvg-ID="DAZN 2 HD" tvg-name="DAZN 2 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="(ACE) DAZN",DAZN 2 1080
-acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
+60dbeeb299ec04bf02bc7426d827547599d3d9fc
 #EXTINF:-1 tvg-ID="DAZN 2 HD" tvg-name="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="(ACE) DAZN",DAZN 2
-acestream://3e0b292ab03f258f993ba6833b254cca33a79d74
+3e0b292ab03f258f993ba6833b254cca33a79d74
 #EXTINF:-1 tvg-ID="DAZN 2 HD" tvg-name="DAZN 2 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="(ACE) DAZN",DAZN 2 720
-acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
+7aa402bab9fff43258fbcf401881a39475f30aaf
 #EXTINF:-1 tvg-ID="DAZN 3 HD" tvg-name="DAZN 3 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="(ACE) DAZN",DAZN 3 1080
-acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 tvg-ID="DAZN 4 HD" tvg-name="DAZN 4 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" group-title="(ACE) DAZN",DAZN 4 1080
-acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 tvg-ID="ext" tvg-name="manuk0s" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" group-title="(ACE) Eventos del momento",Evento #1 ()
-acestream://
+
 #EXTINF:-1 tvg-ID="ext" tvg-name="manuk0s" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" group-title="(ACE) Eventos del momento",Evento #2 ()
-acestream://
+
 #EXTINF:-1 tvg-ID="ext" tvg-name="alexgdbu" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" group-title="(ACE) Eventos del momento",Evento #3 ()
-acestream://
+
 #EXTINF:-1 tvg-ID="ext" tvg-name="En pruebas 1" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" group-title="(ACE) Eventos del momento",En pruebas 1
-acestream://
+
 #EXTINF:-1 tvg-ID="ext" tvg-name="En pruebas 2" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" group-title="(ACE) Eventos del momento",En pruebas 2
-acestream://
+
 #EXTINF:-1 tvg-ID="ElevenSports1Poland.pl" tvg-name="eleven sports 1 poland" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a631.png" group-title="(ACE) 4K",Eleven Sports 1 4K
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 tvg-ID="SkySportBundesligaUHD.de" tvg-name="Sky Sports Bundesliga 4K" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1817.png" group-title="(ACE) 4K",Sky Sports Bundesliga 4K
-acestream://169da1e59ffd3947c09d65eb1a0de0c831bef390
+169da1e59ffd3947c09d65eb1a0de0c831bef390
 #EXTINF:-1 tvg-ID="DAZN F1 HD" tvg-name="DAZN F1 4K" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="(ACE) 4K",DAZN F1 4K
-acestream://61b531f0630fc6f74e711be61a3c5cf170e494ae
+61b531f0630fc6f74e711be61a3c5cf170e494ae
 #EXTINF:-1 tvg-ID="La 1 HD" tvg-name="La 1 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" group-title="(ACE) Otros contenidos",La 1 1080
-acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 tvg-ID="Bar?a TV" tvg-name="Bar?a TV 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" group-title="(ACE) Otros contenidos",Bar?a TV 720
-acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="CUATRO 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" group-title="(ACE) Otros contenidos",CUATRO 1080
-acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
+e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF:-1 tvg-ID="GOL PLAY" tvg-name="GOL TV 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" group-title="(ACE) Otros contenidos",GOL TV 1080
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
+d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-ID="Historia" tvg-name="Historia 720" tvg-logo="https://i.postimg.cc/13TMkF75/historia.png" group-title="(ACE) Otros contenidos",Historia 720
-acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
+b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 tvg-ID="La 1 HD" tvg-name="La 1 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" group-title="(ACE) Otros contenidos",La 1 1080
-acestream://b41d52a733be6f4709db3bdf33e260de2b67d27a
+b41d52a733be6f4709db3bdf33e260de2b67d27a
 #EXTINF:-1 tvg-ID="M+ #0 HD" tvg-name="M+ #0 1080" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" group-title="(ACE) Otros contenidos",M+ #0 1080
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 tvg-ID="National Geographic HD" tvg-name="National Geographic 1080" tvg-logo="https://i.postimg.cc/hjww6WRf/nationalgeo.png" group-title="(ACE) Otros contenidos",National Geographic 1080
-acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
+d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 #EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="Telecinco 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-telecinco-907.png" group-title="(ACE) Otros contenidos",Telecinco 1080
-acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 #EXTINF:-1 tvg-ID="Teledeporte" tvg-name="Teledeporte 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" group-title="(ACE) Otros contenidos",Teledeporte 1080
-acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 tvg-ID="Be Mad" tvg-name="Be Mad 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" group-title="(ACE) Otros contenidos",Be Mad 1080
-acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
+5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 tvg-ID="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tennis-channel-63.png" group-title="(ACE) Otros contenidos",Tennis Channel
-acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
+16089ab3f31a2756cf2ba6d507ff367cce14df83
 #EXTINF:-1 tvg-ID="ext" tvg-name="WRC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/WRC.svg/640px-WRC.svg.png" group-title="(ACE) Otros contenidos",WRC
-acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
+e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 tvg-ID="FoxSportsPremiumMexico.mx" tvg-name="foxsportspremiummexico.mx" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2812.png" group-title="(IPTV) Fox Sports Premium",Fox Sports Premium
-acestream://63ab9528b16e536be0da44d6f5aceac357292b95
+63ab9528b16e536be0da44d6f5aceac357292b95
 #EXTINF:-1 tvg-ID="ext" tvg-name="ESPN Argentina" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1250.png" group-title="(ACE) Extranjeros",ESPN Argentina
-acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 #EXTINF:-1 tvg-ID="ext" tvg-name="ESPN Extra Uruguay" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2036.png" group-title="(ACE) Extranjeros",ESPN Extra Uruguay
-acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1 tvg-ID="ext" tvg-name="ESPN 2 Uruguay" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1251.png" group-title="(ACE) Extranjeros",ESPN 2 Uruguay
-acestream://e40b29774fdfd953751a71f5695f647726623b9d
+e40b29774fdfd953751a71f5695f647726623b9d
 #EXTINF:-1 tvg-ID="ext" tvg-name="ESPN 3 Uruguay" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1252.png" group-title="(ACE) Extranjeros",ESPN 3 Uruguay
-acestream://b97f5975dbd067655432512d4693b417bc85a714
+b97f5975dbd067655432512d4693b417bc85a714
 #EXTINF:-1 tvg-ID="ext" tvg-name="ESPN 3 Argentina" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1252.png" group-title="(ACE) Extranjeros",ESPN 3 Argentina
-acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
+b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 #EXTINF:-1 tvg-ID="ext" tvg-name="DirecTV Sports Ecuador 720" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-directv-sports-ec-2543.png" group-title="(ACE) Extranjeros",DirecTV Sports Ecuador 720
-acestream://f3f14b89eb62839f97153593432370b5bd61a5df
+f3f14b89eb62839f97153593432370b5bd61a5df
 #EXTINF:-1 tvg-ID="ext" tvg-name="FOX 3 Argentina" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-86.png" group-title="(ACE) Extranjeros",FOX 3 Argentina
-acestream://9a8c5485a38e9399e81b3eed23e588946946039f
+9a8c5485a38e9399e81b3eed23e588946946039f
 #EXTINF:-1 tvg-ID="Sport TV1 POR HD" tvg-name="Sport TV1 1080" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" group-title="(ACE) Extranjeros",Sport TV1 1080
-acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de
+ce235921dac95e1da2dd5e54673c2fecb9e806de
 #EXTINF:-1 tvg-ID="Sport TV2 POR HD" tvg-name="Sport TV2 1080" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" group-title="(ACE) Extranjeros",Sport TV2 1080
-acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
+396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 tvg-ID="Sport TV3 POR HD" tvg-name="Sport TV3 1080" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" group-title="(ACE) Extranjeros",Sport TV3 1080
-acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 tvg-ID="Sport TV4 POR HD" tvg-name="Sport TV4 1080" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" group-title="(ACE) Extranjeros",Sport TV4 1080
-acestream://c300ecb07d854c1730b04ea022c3fb0a184d7801
+c300ecb07d854c1730b04ea022c3fb0a184d7801
 #EXTINF:-1 tvg-ID="Sport TV4 POR HD" tvg-name="Sport TV4 720" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" group-title="(ACE) Extranjeros",Sport TV4 720
-acestream://7b910812372dc00639e284ffd342525686a5d43f
+7b910812372dc00639e284ffd342525686a5d43f
 #EXTINF:-1 tvg-ID="Eleven Sports 1 POR" tvg-name="Eleven Sports 1 PT" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1500.png" group-title="(ACE) Extranjeros",Eleven Sports 1 PT
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-ID="Eleven Sports 2 POR" tvg-name="Eleven Sports 2 PT" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1501.png" group-title="(ACE) Extranjeros",Eleven Sports 2 PT
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-ID="Eleven Sports 3 POR" tvg-name="Eleven Sports 3 PT" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1502.png" group-title="(ACE) Extranjeros",Eleven Sports 3 PT
-acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-ID="Eleven Sports 4 POR" tvg-name="Eleven Sports 4 PT" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1557.png" group-title="(ACE) Extranjeros",Eleven Sports 4 PT
-acestream://0f32c0131a2d9444996410801f4e18b04384db98
+0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-ID="Eleven Sports 5 POR" tvg-name="Eleven Sports 5 PT" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1558.png" group-title="(ACE) Extranjeros",Eleven Sports 5 PT
-acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-ID="Eleven Sports 6 POR" tvg-name="Eleven Sports 6 PT" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png" group-title="(ACE) Extranjeros",Eleven Sports 6 PT
-acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-ID="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS Xtra ?" tvg-logo="https://i.postimg.cc/SR7CH0H3/xtra-3.png" group-title="(ACE) Extranjeros",beIN SPORTS Xtra ?
-acestream://41af6926a6010b68ba2540975761436bb077748f
+41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 tvg-ID="beINSportsenEspanol.us" tvg-name="beIN SPORTS ? 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-n-85.png" group-title="(ACE) Extranjeros",beIN SPORTS ? 1080
-acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
+c0f38f2a4b891db823edb45e64f1191655526e5e
 #EXTINF:-1 tvg-ID="beINSportsenEspanol.us" tvg-name="beIN SPORTS ? 1080" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-n-85.png" group-title="(ACE) Extranjeros",beIN SPORTS ? 1080
-acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
+4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 #EXTINF:-1 tvg-ID="ESPN.us" tvg-name="espn" tvg-logo="https://img.sport-tv-guide.live/images/stations/a29.png" group-title="(ACE) Extranjeros",ESPN USA 1080
-acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-ID="ESPN2.us" tvg-name="espn 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a32.png" group-title="(ACE) Extranjeros",ESPN 2 USA 1080
-acestream://664eb5fe460b96941aed633959a845b185cd8394
+664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-ID="FoxSports1.us" tvg-name="fox sports 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a60.png" group-title="(ACE) Extranjeros",Fox Sports 1 EEUU 1080
-acestream://c9c062941fbecb16ce29437f346ea7177d720898
+c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-ID="FoxSports1.us" tvg-name="fox sports 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a60.png" group-title="(ACE) Extranjeros",Fox Sports 1 EEUU 1080
-acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
+e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 tvg-ID="FoxSports2.us" tvg-name="fox sports 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a61.png" group-title="(ACE) Extranjeros",Fox Sports 2 EEUU 1080
-acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 tvg-ID="FoxSports2.us" tvg-name="fox sports 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a61.png" group-title="(ACE) Extranjeros",Fox Sports 2 EEUU 1080
-acestream://63ab9528b16e536be0da44d6f5aceac357292b95
+63ab9528b16e536be0da44d6f5aceac357292b95
 #EXTINF:-1 tvg-ID="BTSport1.uk" tvg-name="bt sport 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" group-title="(ACE) Extranjeros",BT Sport 1 1080
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-ID="BTSport1.uk" tvg-name="bt sport 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" group-title="(ACE) Extranjeros",BT Sport 1 1080
-acestream://ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
+ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
 #EXTINF:-1 tvg-ID="BTSport2.uk" tvg-name="bt sport 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a100.png" group-title="(ACE) Extranjeros",BT Sport 2 1080
-acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-ID="BTSport3.uk" tvg-name="bt sport 3" tvg-logo="https://img.sport-tv-guide.live/images/stations/a108.png" group-title="(ACE) Extranjeros",BT Sport 3 1080
-acestream://5f966c123759de46dff29c379266b7a403452033
+5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-ID="BTSport4.uk" tvg-name="bt sport 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a98.png" group-title="(ACE) Extranjeros",BT Sport 4 1080
-acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-ID="SkySportsArena.uk" tvg-name="Sky Sports Arena" tvg-logo="https://img.sport-tv-guide.live/images/stations/a92.png" group-title="(ACE) Extranjeros",Sky Sports Arena
-acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-ID="SkySportsPremierLeague.uk" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://img.sport-tv-guide.live/images/stations/a90.png" group-title="(ACE) Extranjeros",Sky Sports PREMIER LEAGUE
-acestream://8d976b2a90dce3b57ed094bd8a6152335c66bbc9
+8d976b2a90dce3b57ed094bd8a6152335c66bbc9
 #EXTINF:-1 tvg-ID="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://img.sport-tv-guide.live/images/stations/a91.png" group-title="(ACE) Extranjeros",Sky Sports Football
-acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-ID="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png" group-title="(ACE) Extranjeros",Sky Sports Main Event
-acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-ID="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="https://i.postimg.cc/KzrV1LYj/sky-sports-news-uk.png" group-title="(ACE) Extranjeros",Sky Sports News
-acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-ID="ext" tvg-name="Premier Sports 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a95.png" group-title="(ACE) Extranjeros",Premier Sports 1
-acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-ID="ext" tvg-name="Premier Sports 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1442.png" group-title="(ACE) Extranjeros",Premier Sports 2
-acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-ID="Sky Sport Bundesliga GER" tvg-name="Sky Sports Bundesliga" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1804.png" group-title="(ACE) Extranjeros",Sky Sports Bundesliga
-acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 #EXTINF:-1 tvg-ID="Eurosport 1 GER" tvg-name="Eurosport 1 GER HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a150.png" group-title="(ACE) Extranjeros",Eurosport 1 GER HD
-acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-ID="Eurosport 2 GER" tvg-name="Eurosport 2 GER HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a151.png" group-title="(ACE) Extranjeros",Eurosport 2 GER HD
-acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 tvg-ID="ext" tvg-name="Eurosport 360 HD 1 DE" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" group-title="(ACE) Extranjeros",Eurosport 360 HD 1 DE
-acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c
+22df9a5fae8cae52fec925c2bb44b74f96a4200c
 #EXTINF:-1 tvg-ID="ext" tvg-name="Eurosport 360 HD 2 DE" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" group-title="(ACE) Extranjeros",Eurosport 360 HD 2 DE
-acestream://57f95543ac41656d473b1a27123fc413388a728c
+57f95543ac41656d473b1a27123fc413388a728c
 #EXTINF:-1 tvg-ID="ext" tvg-name="Eurosport 360 HD 3 DE" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" group-title="(ACE) Extranjeros",Eurosport 360 HD 3 DE
-acestream://7adbca42657ace1fe228142d351d0896974bbe0c
+7adbca42657ace1fe228142d351d0896974bbe0c
 #EXTINF:-1 tvg-ID="ext" tvg-name="Eurosport 360 HD 4 DE" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" group-title="(ACE) Extranjeros",Eurosport 360 HD 4 DE
-acestream://1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
+1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
 #EXTINF:-1 tvg-ID="ext" tvg-name="Eurosport 360 HD 5 DE" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" group-title="(ACE) Extranjeros",Eurosport 360 HD 5 DE
-acestream://148921c4dda96df445e253d6f26c4d092bf85809
+148921c4dda96df445e253d6f26c4d092bf85809
 #EXTINF:-1 tvg-ID="ext" tvg-name="Eurosport 360 HD 6 DE" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" group-title="(ACE) Extranjeros",Eurosport 360 HD 6 DE
-acestream://005ac522315699bd93bbf743329eb2f3c347dc3f
+005ac522315699bd93bbf743329eb2f3c347dc3f
 #EXTINF:-1 tvg-ID="ext" tvg-name="Eurosport 360 HD 7 DE" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" group-title="(ACE) Extranjeros",Eurosport 360 HD 7 DE
-acestream://b18657f64507cc859cd7edef1aef90feb053e791
+b18657f64507cc859cd7edef1aef90feb053e791
 #EXTINF:-1 tvg-ID="ext" tvg-name="Eurosport 360 HD 8 DE" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" group-title="(ACE) Extranjeros",Eurosport 360 HD 8 DE
-acestream://8f4f572005ca2557743474087aa622693ba9b5fe
+8f4f572005ca2557743474087aa622693ba9b5fe
 #EXTINF:-1 tvg-ID="ext" tvg-name="Eurosport 360 HD 9 DE" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" group-title="(ACE) Extranjeros",Eurosport 360 HD 9 DE
-acestream://7993cecc31917793e2bfa2fe98faa9fe1ab62d47
+7993cecc31917793e2bfa2fe98faa9fe1ab62d47
 #EXTINF:-1 tvg-ID="DAZN 1 GER" tvg-name="DAZN 1 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2703.png" group-title="(ACE) Extranjeros",DAZN 1 DE
-acestream://897e73c9d578848f596585314ecb9ae067c0e229
+897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-ID="DAZN 2 GER" tvg-name="DAZN 2 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2704.png" group-title="(ACE) Extranjeros",DAZN 2 DE
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-ID="ext" tvg-name="RTL+ SPORT EVENT 1 [DE]" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" group-title="(ACE) Extranjeros",RTL+ SPORT EVENT 1 [DE]
-acestream://a7319ebd54cb1db9a9db1574929ca8d305a323d3
+a7319ebd54cb1db9a9db1574929ca8d305a323d3
 #EXTINF:-1 tvg-ID="ext" tvg-name="RTL+ SPORT EVENT 2 [DE]" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" group-title="(ACE) Extranjeros",RTL+ SPORT EVENT 2 [DE]
-acestream://e360a96fb4bbe1cb8a7862a6514c4c284eeec466
+e360a96fb4bbe1cb8a7862a6514c4c284eeec466
 #EXTINF:-1 tvg-ID="ext" tvg-name="RTL+ SPORT EVENT 3 [DE]" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" group-title="(ACE) Extranjeros",RTL+ SPORT EVENT 3 [DE]
-acestream://8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
+8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
 #EXTINF:-1 tvg-ID="ext" tvg-name="RTL+ SPORT EVENT 4 [DE]" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" group-title="(ACE) Extranjeros",RTL+ SPORT EVENT 4 [DE]
-acestream://784da1ced871f6d3f6bf25f29664bfd39f6130a6
+784da1ced871f6d3f6bf25f29664bfd39f6130a6
 #EXTINF:-1 tvg-ID="ext" tvg-name="RTL+ SPORT EVENT 5 [DE]" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" group-title="(ACE) Extranjeros",RTL+ SPORT EVENT 5 [DE]
-acestream://81284e9a279ee23cbc4a7400bd9531f127d20fe5
+81284e9a279ee23cbc4a7400bd9531f127d20fe5
 #EXTINF:-1 tvg-ID="ext" tvg-name="RTL+ SPORT EVENT 6 [DE]" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" group-title="(ACE) Extranjeros",RTL+ SPORT EVENT 6 [DE]
-acestream://c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
+c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
 #EXTINF:-1 tvg-ID="ext" tvg-name="Magenta Sport 1 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1438.png" group-title="(ACE) Extranjeros",Magenta Sport 1 DE
-acestream://501141c649a2b78c4965cbf3257224181cc55072
+501141c649a2b78c4965cbf3257224181cc55072
 #EXTINF:-1 tvg-ID="ext" tvg-name="Magenta Sport 2 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1438.png" group-title="(ACE) Extranjeros",Magenta Sport 2 DE
-acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
+ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
 #EXTINF:-1 tvg-ID="ext" tvg-name="Magenta Sport 3 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1438.png" group-title="(ACE) Extranjeros",Magenta Sport 3 DE
-acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Magenta Sport 4 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1438.png" group-title="(ACE) Extranjeros",Magenta Sport 4 DE
-acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
+1fb794b1503c5955b75ea0106ee6360b80d78849
 #EXTINF:-1 tvg-ID="ext" tvg-name="Magenta Sport 5 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1438.png" group-title="(ACE) Extranjeros",Magenta Sport 5 DE
-acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
+428b92f3c71cd3cbf66ef6193808b39d16a52730
 #EXTINF:-1 tvg-ID="ext" tvg-name="Magenta Sport 6 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1438.png" group-title="(ACE) Extranjeros",Magenta Sport 6 DE
-acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
+14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Magenta Sport 7 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1438.png" group-title="(ACE) Extranjeros",Magenta Sport 7 DE
-acestream://ac839cda9709255c21a98af455731f037e77a9e4
+ac839cda9709255c21a98af455731f037e77a9e4
 #EXTINF:-1 tvg-ID="ext" tvg-name="Magenta Sport 8 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1438.png" group-title="(ACE) Extranjeros",Magenta Sport 8 DE
-acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
+11c5823d4196a90b509f03df1fe78e13cfbbb175
 #EXTINF:-1 tvg-ID="ext" tvg-name="Magenta Sport 9 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1438.png" group-title="(ACE) Extranjeros",Magenta Sport 9 DE
-acestream://86495fe134ff065d5217497babe6be33f81d37d1
+86495fe134ff065d5217497babe6be33f81d37d1
 #EXTINF:-1 tvg-ID="ext" tvg-name="Magenta Sport 10 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1438.png" group-title="(ACE) Extranjeros",Magenta Sport 10 DE
-acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
+6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 tvg-ID="ext" tvg-name="Magenta Sport 11 DE" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1438.png" group-title="(ACE) Extranjeros",Magenta Sport 11 DE
-acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 #EXTINF:-1 tvg-ID="BEIN SPORTS 1 FRA" tvg-name="BeIN Sports 1 BE" tvg-logo="https://img.sport-tv-guide.live/images/stations/a400.png" group-title="(ACE) Extranjeros",BeIN Sports 1 BE
-acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-ID="BEIN SPORTS 2 FRA" tvg-name="BeIN Sports 2 BE" tvg-logo="https://img.sport-tv-guide.live/images/stations/a401.png" group-title="(ACE) Extranjeros",BeIN Sports 2 BE
-acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-ID="BEIN SPORTS 3 FRA" tvg-name="BeIN Sports 3 BE" tvg-logo="https://img.sport-tv-guide.live/images/stations/a402.png" group-title="(ACE) Extranjeros",BeIN Sports 3 BE
-acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-ID="ext" tvg-name="AMAZON PRIME VIDEO 1 HD [BE]" tvg-logo="https://i.postimg.cc/3Rvx9ycR/primvideo-ligue1.png" group-title="(ACE) Extranjeros",AMAZON PRIME VIDEO 1 HD [BE]
-acestream://5323ccadb659f7d3cb5fa2e5835c5af362e144d6
+5323ccadb659f7d3cb5fa2e5835c5af362e144d6
 #EXTINF:-1 tvg-ID="ext" tvg-name="AMAZON PRIME VIDEO 2 HD [BE]" tvg-logo="https://i.postimg.cc/3Rvx9ycR/primvideo-ligue1.png" group-title="(ACE) Extranjeros",AMAZON PRIME VIDEO 2 HD [BE]
-acestream://2926e34c63d83764f9c6671da53397d55041b4ea
+2926e34c63d83764f9c6671da53397d55041b4ea
 #EXTINF:-1 tvg-ID="ext" tvg-name="AMAZON PRIME VIDEO 3 HD [BE]" tvg-logo="https://i.postimg.cc/3Rvx9ycR/primvideo-ligue1.png" group-title="(ACE) Extranjeros",AMAZON PRIME VIDEO 3 HD [BE]
-acestream://7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c
+7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c
 #EXTINF:-1 tvg-ID="ext" tvg-name="AMAZON PRIME VIDEO 4 HD [BE]" tvg-logo="https://i.postimg.cc/3Rvx9ycR/primvideo-ligue1.png" group-title="(ACE) Extranjeros",AMAZON PRIME VIDEO 4 HD [BE]
-acestream://77697d1e2f382196dd156ed384e84c62fc7d32f7
+77697d1e2f382196dd156ed384e84c62fc7d32f7
 #EXTINF:-1 tvg-ID="ext" tvg-name="AMAZON PRIME VIDEO 5 HD [BE]" tvg-logo="https://i.postimg.cc/3Rvx9ycR/primvideo-ligue1.png" group-title="(ACE) Extranjeros",AMAZON PRIME VIDEO 5 HD [BE]
-acestream://d3634268718c6e52cde4a34d0e75cffef26c1ba9
+d3634268718c6e52cde4a34d0e75cffef26c1ba9
 #EXTINF:-1 tvg-ID="ext" tvg-name="AMAZON PRIME VIDEO 6 HD [BE]" tvg-logo="https://i.postimg.cc/3Rvx9ycR/primvideo-ligue1.png" group-title="(ACE) Extranjeros",AMAZON PRIME VIDEO 6 HD [BE]
-acestream://26e31f091414fb036917a255b4adaf12b2f3da5b
+26e31f091414fb036917a255b4adaf12b2f3da5b
 #EXTINF:-1 tvg-ID="ext" tvg-name="AMAZON PRIME VIDEO 7 HD [BE]" tvg-logo="https://i.postimg.cc/3Rvx9ycR/primvideo-ligue1.png" group-title="(ACE) Extranjeros",AMAZON PRIME VIDEO 7 HD [BE]
-acestream://160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
+160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
 #EXTINF:-1 tvg-ID="ext" tvg-name="AMAZON PRIME VIDEO 8 HD [BE]" tvg-logo="https://i.postimg.cc/3Rvx9ycR/primvideo-ligue1.png" group-title="(ACE) Extranjeros",AMAZON PRIME VIDEO 8 HD [BE]
-acestream://3a21b411e9b764efefc0c2166ca07f4655b3d31c
+3a21b411e9b764efefc0c2166ca07f4655b3d31c
 #EXTINF:-1 tvg-ID="ext" tvg-name="Setanta Sport 1" tvg-logo="https://picon.ml/setanta-sports1.png" group-title="(ACE) Extranjeros",Setanta Sport 1
-acestream://b99278331ad806f1463fcd3bf53befa5530d86da
+b99278331ad806f1463fcd3bf53befa5530d86da
 #EXTINF:-1 tvg-ID="ext" tvg-name="Setanta Sport 1" tvg-logo="https://picon.ml/setanta-sports1.png" group-title="(ACE) Extranjeros",Setanta Sport 1
-acestream://8b70ef2d42e2adac57e90f68847eadfc356c04d2
+8b70ef2d42e2adac57e90f68847eadfc356c04d2
 #EXTINF:-1 tvg-ID="ext" tvg-name="Setanta Sport 2" tvg-logo="https://picon.ml/setanta-sports2.png" group-title="(ACE) Extranjeros",Setanta Sport 2
-acestream://9b8feebaf07ced9351ad88da77ef617f82626c4b
+9b8feebaf07ced9351ad88da77ef617f82626c4b
 #EXTINF:-1 tvg-ID="ext" tvg-name="Setanta Sport 2" tvg-logo="https://picon.ml/setanta-sports2.png" group-title="(ACE) Extranjeros",Setanta Sport 2
-acestream://02ab7a40891a8cc1aa7e29e0eff279abc4a4188e
+02ab7a40891a8cc1aa7e29e0eff279abc4a4188e
 #EXTINF:-1 tvg-ID="ext" tvg-name="SETANTA SPORTS 1080" tvg-logo="https://picon.ml/setanta-sports1.png" group-title="(ACE) Extranjeros",SETANTA SPORTS 1080
-acestream://72066549fbfd3f755853fe9467586b7debf01f60
+72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal+ Sport 360" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2807.png" group-title="(ACE) Extranjeros",Canal+ Sport 360
-acestream://e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
+e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
 #EXTINF:-1 tvg-ID="ElevenSports2Poland.pl" tvg-name="Eleven Sports 2 PL" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a633.png" group-title="(ACE) Extranjeros",Eleven Sports 2 PL
-acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 tvg-ID="ElevenSports3Poland.pl" tvg-name="Eleven Sports 3 PL" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a632.png" group-title="(ACE) Extranjeros",Eleven Sports 3 PL
-acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 #EXTINF:-1 tvg-ID="ElevenSports4Poland.pl" tvg-name="Eleven Sports 4 PL" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a998.png" group-title="(ACE) Extranjeros",Eleven Sports 4 PL
-acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
+458a0ddd7d193f6d2750cd14d03a47f47a808e09
 #EXTINF:-1 tvg-ID="CanalPlusSportPoland.pl" tvg-name="Canal+ Sport 1 PL" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a555.png" group-title="(ACE) Extranjeros",Canal+ Sport 1 PL
-acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1 tvg-ID="CanalPlusSport2Poland.pl" tvg-name="Canal+ Sport 2 PL" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a707.png" group-title="(ACE) Extranjeros",Canal+ Sport 2 PL
-acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3
+6390b1ab967a25777ea2dde1d41b7400cc0601d3
 #EXTINF:-1 tvg-ID="CanalPlusSport3Poland.pl" tvg-name="Canal+ Sport 3 PL" tvg-logo="https://i.postimg.cc/2y0sLWpy/a1883.png" group-title="(ACE) Extranjeros",Canal+ Sport 3 PL
-acestream://3e87464ed8c42ed14464461ea08860a3040a8944
+3e87464ed8c42ed14464461ea08860a3040a8944
 #EXTINF:-1 tvg-ID="CanalPlusSport4Poland.pl" tvg-name="Canal+ Sport 4 PL" tvg-logo="https://i.postimg.cc/pTZ73jLC/a1884.png" group-title="(ACE) Extranjeros",Canal+ Sport 4 PL
-acestream://04448c3ca0b7518819491e468adbabc8a2551bd7
+04448c3ca0b7518819491e468adbabc8a2551bd7
 #EXTINF:-1 tvg-ID="ESPN2Netherlands.nl" tvg-name="ESPN 2 NL 720" tvg-logo="https://img.sport-tv-guide.live/images/stations/a32.png" group-title="(ACE) Extranjeros",ESPN 2 NL 720
-acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
+3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-ID="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing NL" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a288.png" group-title="(ACE) Extranjeros",Ziggo Sport Racing NL
-acestream://77800bb07c1d69135024ee2379c97472eb12dd45
+77800bb07c1d69135024ee2379c97472eb12dd45
 #EXTINF:-1 tvg-ID="ZiggoSportSelect.nl" tvg-name="Ziggo Sport Select NL" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a285.png" group-title="(ACE) Extranjeros",Ziggo Sport Select NL
-acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 tvg-ID="ZiggoSportVoetbal.nl" tvg-name="Ziggo Sport Voetbal NL" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a286.png" group-title="(ACE) Extranjeros",Ziggo Sport Voetbal NL
-acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
+95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 tvg-ID="DigiSport1Romania.ro" tvg-name="Digi Sport 1 RO" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a880.png" group-title="(ACE) Extranjeros",Digi Sport 1 RO
-acestream://51cee9d0b29dbd9104e9a3971fd2569419eab159
+51cee9d0b29dbd9104e9a3971fd2569419eab159
 #EXTINF:-1 tvg-ID="DigiSport2Romania.ro" tvg-name="Digi Sport 2 RO" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a881.png" group-title="(ACE) Extranjeros",Digi Sport 2 RO
-acestream://b7db2c0404f90f99b01a8875713c047cd07595f7
+b7db2c0404f90f99b01a8875713c047cd07595f7
 #EXTINF:-1 tvg-ID="DigiSport3Romania.ro" tvg-name="Digi Sport 3 RO" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a882.png" group-title="(ACE) Extranjeros",Digi Sport 3 RO
-acestream://b9dc6fdeaca5a5f4275db80d68536e023ce4ea06
+b9dc6fdeaca5a5f4275db80d68536e023ce4ea06
 #EXTINF:-1 tvg-ID="NBATV.us" tvg-name="NBA TV USA 1 1080" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" group-title="(ACE) NBA",NBA TV USA 1 1080
-acestream://e72d03fb9694164317260f684470be9ab781ed95
+e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 tvg-ID="NBATV.us" tvg-name="NBA USA 1 1080" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" group-title="(ACE) NBA",NBA USA 1 1080
-acestream://39db49bc89dcc3c8797566231f869dca57f1a47e
+39db49bc89dcc3c8797566231f869dca57f1a47e
 #EXTINF:-1 tvg-ID="ext" tvg-name="NBA USA 2 1080" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" group-title="(ACE) NBA",NBA USA 2 1080
-acestream://f1c84ec8ea0c0bfff8a24272b66c64354a522110
+f1c84ec8ea0c0bfff8a24272b66c64354a522110
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 05 de marzo - Gran Premio de Bhar?in " tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 05 de marzo - Gran Premio de Bhar?in 
-acestream://5c0a0e52f85740264284d773cf6ab2db582e8ed5
+5c0a0e52f85740264284d773cf6ab2db582e8ed5
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 19 de marzo - Gran Premio de Arabia Saudita " tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 19 de marzo - Gran Premio de Arabia Saudita 
-acestream://6ca01b3e13256f911afb819dc86e72a112c8985d
+6ca01b3e13256f911afb819dc86e72a112c8985d
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1 Carrera Sprin: 29 de abril - Gran Premio de Azerbaiyan" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1 Carrera Sprin: 29 de abril - Gran Premio de Azerbaiyan 
-acestream://29197791734d8efbf1ad141f2c8d8a4dc1ba70e1
+29197791734d8efbf1ad141f2c8d8a4dc1ba70e1
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1 Carrera: 30 de abril - Gran Premio de Azerbaiyan" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1 Carrera: 30 de abril - Gran Premio de Azerbaiyan 
-acestream://d915c9899e6083f3fd731bdd065d622615cb1866
+d915c9899e6083f3fd731bdd065d622615cb1866
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 07 de Mayo - Gran Premio de Miami" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 07 de Mayo - Gran Premio de Miami 
-acestream://798fa38149e6873aeca1b680cd1c8d819a0d42fc
+798fa38149e6873aeca1b680cd1c8d819a0d42fc
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 28 de Mayo - Gran Premio de Monaco" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 28 de Mayo - Gran Premio de Monaco 
-acestream://732c164b0934ea3a5badb7fe73fb26ef5d3a8597
+732c164b0934ea3a5badb7fe73fb26ef5d3a8597
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 04 de Junio - Gran Premio de Espana" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 04 de Junio - Gran Premio de Espana 
-acestream://c3290215518554e6cebdd979069dd4f67514bea9
+c3290215518554e6cebdd979069dd4f67514bea9
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 18 de Junio - Gran Premio de Canada" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 18 de Junio - Gran Premio de Canada 
-acestream://aeff60d5b63713d311264ab26c259b967bbb50d6
+aeff60d5b63713d311264ab26c259b967bbb50d6
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera Sprin: 01 de Julio - Gran Premio de Austria" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera Sprin: 01 de Julio - Gran Premio de Austria 
-acestream://2d30bc4584f6a0ded61bf92ec63e433cfd89ebc3
+2d30bc4584f6a0ded61bf92ec63e433cfd89ebc3
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 02 de Julio - Gran Premio de Austria" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 02 de Julio - Gran Premio de Austria 
-acestream://0e466cd2e33308ace7851a57794aa04bbe14071f
+0e466cd2e33308ace7851a57794aa04bbe14071f
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 09 de Julio - Gran Premio de Reino Unido" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 09 de Julio - Gran Premio de Reino Unido 
-acestream://73a6596f2d8d0aecb3fd23088caff7f3622f5c3b
+73a6596f2d8d0aecb3fd23088caff7f3622f5c3b
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 23 de Julio - Gran Premio de Hungria" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 23 de Julio - Gran Premio de Hungria 
-acestream://f0381cc6366770b44650eaf18bff09f7d10c5401
+f0381cc6366770b44650eaf18bff09f7d10c5401
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera Sprin: 29 de Julio - Gran Premio de Belgica" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera Sprin: 29 de Julio - Gran Premio de Belgica 
-acestream://0cf43c254b0a245f77349b94181911a4f62d0878
+0cf43c254b0a245f77349b94181911a4f62d0878
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 30 de Julio - Gran Premio de Belgica" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 30 de Julio - Gran Premio de Belgica 
-acestream://efb117521907fe2a9f4268285e87c92ce62aec4f
+efb117521907fe2a9f4268285e87c92ce62aec4f
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race Sprin PORTUGAL.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race Sprin PORTUGAL.2023.Spa
-acestream://a4d9e5c15582c2ef3206b34cc46567c1cb43344c
+a4d9e5c15582c2ef3206b34cc46567c1cb43344c
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto3.Race PORTUGAL.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto3.Race PORTUGAL.2023.Spa
-acestream://e0efca53bbb9b670b96e95797a61660532b615c3
+e0efca53bbb9b670b96e95797a61660532b615c3
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto2.Race PORTUGAL.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto2.Race PORTUGAL.2023.Spa
-acestream://0f408ea4b6ddc2aff4f2ccd55689ba6c558244d8
+0f408ea4b6ddc2aff4f2ccd55689ba6c558244d8
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race PORTUGAL.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race PORTUGAL.2023.Spa
-acestream://b42bbd008c2379b35d239ac9bb95c8657b95a538
+b42bbd008c2379b35d239ac9bb95c8657b95a538
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race Sprin ARGENTINA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race Sprin ARGENTINA.2023.Spa
-acestream://f65ed92012c162ff94d1059b2119bf443f28a272
+f65ed92012c162ff94d1059b2119bf443f28a272
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto3.Race ARGENTINA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto3.Race ARGENTINA.2023.Spa
-acestream://3f1c6cf3f8608f9b6a3ac288571d7000af6387c9
+3f1c6cf3f8608f9b6a3ac288571d7000af6387c9
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto2.Race ARGENTINA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto2.Race ARGENTINA.2023.Spa
-acestream://0aefd372bcb3b1926b046861503d1b25ae039ceb
+0aefd372bcb3b1926b046861503d1b25ae039ceb
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race ARGENTINA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race ARGENTINA.2023.Spa
-acestream://65ed92012c162ff94d1059b2119bf443f28a272
+65ed92012c162ff94d1059b2119bf443f28a272
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race Sprin USA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race Sprin USA.2023.Spa
-acestream://86ec54b7ac1b025bcfc0ca54b4213bc38de2150f
+86ec54b7ac1b025bcfc0ca54b4213bc38de2150f
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto3.Race USA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto3.Race USA.2023.Spa
-acestream://2ffa74e5f9ceaef62bb3b826fbb78468a0a5ea52
+2ffa74e5f9ceaef62bb3b826fbb78468a0a5ea52
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto2.Race USA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto2.Race USA.2023.Spa
-acestream://8d0554257731fcd1456f605156dda6e3c11d508a
+8d0554257731fcd1456f605156dda6e3c11d508a
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race USA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race USA.2023.Spa
-acestream://b7c23d607527b3ebf23951b857c8a942ba17e161
+b7c23d607527b3ebf23951b857c8a942ba17e161
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race Sprin ESPAÑA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race Sprin ESPAÑA.2023.Spa
-acestream://fe1acea199522b5e8b4f24c025f39d6e4db1df94
+fe1acea199522b5e8b4f24c025f39d6e4db1df94
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto3.Race ESPAÑA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto3.Race ESPAÑA.2023.Spa
-acestream://e5d32f5272d9c8980d4c6462af2ef46deb6964ab
+e5d32f5272d9c8980d4c6462af2ef46deb6964ab
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto2.Race ESPAÑA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto2.Race ESPAÑA.2023.Spa
-acestream://f675497a95e5b2838a6ea681431e7dd6e94f9433
+f675497a95e5b2838a6ea681431e7dd6e94f9433
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race ESPAÑA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race ESPAÑA.2023.Spa
-acestream://57a81987ef0c6bffba8af5e1f8f8f01f6079332c
+57a81987ef0c6bffba8af5e1f8f8f01f6079332c
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race Sprin FRANCIA 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race Sprin FRANCIA 2023.Spa
-acestream://c1f8d48989778c2d5d330d466d67865c46374e36
+c1f8d48989778c2d5d330d466d67865c46374e36
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto3.Race FRANCIA 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto3.Race FRANCIA 2023.Spa
-acestream://248b739b3cd8f1c1c6b920a117c8d22f06072c3a
+248b739b3cd8f1c1c6b920a117c8d22f06072c3a
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto2.Race FRANCIA 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto2.Race FRANCIA 2023.Spa
-acestream://3c5247aee94bd58698a27bf5c4c4f9590eb88aa9
+3c5247aee94bd58698a27bf5c4c4f9590eb88aa9
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race FRANCIA 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race FRANCIA 2023.Spa
-acestream://17371ba1632b339fe5cdd0829f5759a00e96741d
+17371ba1632b339fe5cdd0829f5759a00e96741d
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race Sprin ITALIA 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race Sprin ITALIA 2023.Spa
-acestream://c82ec69df1b0c7ed683e1c718819d1231e827a4a
+c82ec69df1b0c7ed683e1c718819d1231e827a4a
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto3.Race ITALIA 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto3.Race ITALIA 2023.Spa
-acestream://5e2575bb22fe0c259bbe6189bcc7928558f0ee0c
+5e2575bb22fe0c259bbe6189bcc7928558f0ee0c
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto2.Race ITALIA 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto.Race ITALIA 2023.Spa
-acestream://4eddc87bd0c12ecf0999dd4a54a5a0fbdd12cb65
+4eddc87bd0c12ecf0999dd4a54a5a0fbdd12cb65
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race ITALIA 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race ITALIA 2023.Spa
-acestream://776d1c68ec1b9dc178440f260a5ffce3e35aa9e3
+776d1c68ec1b9dc178440f260a5ffce3e35aa9e3
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race Sprin ALEMANIA 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race Sprin ALEMANIA 2023.Spa
-acestream://d3ad7a81f1c0e689933d72a4684b3782b3273fcc
+d3ad7a81f1c0e689933d72a4684b3782b3273fcc
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto3.Race ALEMANIA 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto3.Race ALEMANIA 2023.Spa
-acestream://54e2983f51d682d1e16349581e0a74d7837b092d
+54e2983f51d682d1e16349581e0a74d7837b092d
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto2.Race ALEMANIA 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto.Race ALEMANIA 2023.Spa
-acestream://d296368ad0747305ee91e757b6ef8f7ca53b132d
+d296368ad0747305ee91e757b6ef8f7ca53b132d
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race ALEMANIA 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race ALEMANIA 2023.Spa
-acestream://8823987107290385da75094bce26bf2341df70d6
+8823987107290385da75094bce26bf2341df70d6
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race Sprin ASEN 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race Sprin ASEN 2023.Spa
-acestream://5a45f8fa0e2ae266bcf6c592565a4d9159a7054c
+5a45f8fa0e2ae266bcf6c592565a4d9159a7054c
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto3.Race ASEN 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto3.Race ASEN 2023.Spa
-acestream://5d9b6fcd8c6728b75b4d9a81cc38d0f643904480
+5d9b6fcd8c6728b75b4d9a81cc38d0f643904480
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto2.Race ASEN 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto2.Race ASEN 2023.Spa
-acestream://057d95a7832ab57438d7d5e1db677e72b9e28beb
+057d95a7832ab57438d7d5e1db677e72b9e28beb
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race ASEN 2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race ASEN 2023.Spa
-acestream://15ff5e591f678d8d0153cd67ff4772a250aff0d3
+15ff5e591f678d8d0153cd67ff4772a250aff0d3
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="St. Petersburg-5 de marzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",St. Petersburg- 5 de marzo
-acestream://7c666ed08a2fdcce3cb99f1d7a6159c684feeddb
+7c666ed08a2fdcce3cb99f1d7a6159c684feeddb
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Texas (ovalo)-2 de abril" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",Texas (ovalo)-2 de abril
-acestream://7f60c66b9a43755eac8620ca05613d1907a0edab
+7f60c66b9a43755eac8620ca05613d1907a0edab
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Long Beach-16 de abril" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",Long Beach-16 de abril
-acestream://897ea5378553971a6cf0aeafd852609315a523f8
+897ea5378553971a6cf0aeafd852609315a523f8
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Alabama-30 de abril (NO DISPONIBLE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",Alabama-30 de abril (NO DISPONIBLE)
-acestream://1fb921dc794016483653c4110b99987ad8b9a787
+1fb921dc794016483653c4110b99987ad8b9a787
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Indianapolis-14 de mayo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",Indianapolis-14 de mayo
-acestream://37323ed1e6fe8831a186cd9eb7500ba771656ed6
+37323ed1e6fe8831a186cd9eb7500ba771656ed6
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Indianapolis INDY 500-28 de mayo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",Indianapolis INDY 500-28 de mayo
-acestream://65dfbeb4976ad43a48e45bd5949064c92036b6b2
+65dfbeb4976ad43a48e45bd5949064c92036b6b2
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Detroid-11 de junio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",Detroid-11 de junio
-acestream://e1df9dd940051acf
+e1df9dd940051acf
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Road America-18 de junio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",Road America-18 de junio
-acestream://bccd8ab3a2cdac6e40b10d4473fc3b53fd577b97
+bccd8ab3a2cdac6e40b10d4473fc3b53fd577b97
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Mid Ohio-02 de julio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",Mid Ohio-02 de julio
-acestream://60ca7789e01d86cc730382395a868d830e159489
+60ca7789e01d86cc730382395a868d830e159489
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Toronto-16 de julio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",Toronto-16 de julio
-acestream://ee9078d8753a7ea8ab0dbcd8ccbfb81458990624
+ee9078d8753a7ea8ab0dbcd8ccbfb81458990624
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Iowa carrera 1-22 de julio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",Iowa carrera 1-22 de julio
-acestream://a89b4f622938d100f9c1c8f92af1aaa954de095b
+a89b4f622938d100f9c1c8f92af1aaa954de095b
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Iowa carrera 2-23 de julio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",Iowa carrera 2-23 de julio
-acestream://0414a4ceb1151504d051f2d3fb517fc6499992bc
+0414a4ceb1151504d051f2d3fb517fc6499992bc
