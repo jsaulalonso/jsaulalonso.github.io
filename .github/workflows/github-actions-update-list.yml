@@ -1,0 +1,15 @@
+name: GitHub Actions Update List
+run-name: Updating list file 🚀
+on: [push]
+#  schedule:
+#    - cron: "46 2 * * *"
+jobs:
+  Update-Repo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with:
+          repository: nicotinoo/lavistica1970
+          path: src
+      - run: ls
