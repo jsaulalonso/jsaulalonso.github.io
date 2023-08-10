@@ -1,10 +1,10 @@
 name: GitHub Actions Update List
 run-name: Updating list file 🚀
-on: [push]
-#  schedule:
-#    - cron: "46 2 * * *"
+on:
+  schedule:
+    - cron: "46 2 * * *"
 jobs:
-  Update-Repo:
+  Update-List:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -12,4 +12,9 @@ jobs:
         with:
           repository: nicotinoo/lavistica1970
           path: src
-      - run: ls
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - run: |
+          python update_list.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
