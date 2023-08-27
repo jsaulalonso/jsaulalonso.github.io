@@ -1,8 +1,7 @@
 name: GitHub Actions Update List
 run-name: Updating list file 🚀
 on:
-  schedule:
-    - cron: "46 2 * * *"
+  push:
 jobs:
   Update-List:
     runs-on: ubuntu-latest
