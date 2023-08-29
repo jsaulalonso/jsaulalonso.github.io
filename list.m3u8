@@ -27,14 +27,6 @@ a52bf7c28df63995ad427c32ebf1e517445720bb
 65c705d7b387aa9b2a83e66b2fd0b9611e941a02
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="F1TV PRO 50fps" tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1",F1TV PRO 50fps
 bb2976a6e2296ffa562c91d761db5460f325bd1a
-#EXTINF:-1 tvg-id="SkySportF1Germany.de" tvg-name="Sky Sports F1 HD" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1",Sky Sports F1 HD
-2260011d2520b1a93c8f371e2fb7fda07ace4ee5
-#EXTINF:-1 tvg-id="SkySportF1Germany.de" tvg-name="Sky Sports F1 UHD [DE]" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1",Sky Sports F1 UHD [DE]
-96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
-#EXTINF:-1 tvg-id="SkySportF1Germany.de" tvg-name="Sky Sports F1 [DE]" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1",Sky Sports F1 [DE]
-b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 tvg-id="Formula E" tvg-name="Formula E" tvg-logo="https://img2.freepng.es/20180430/pze/kisspng-nio-formula-e-team-logo-brand-5ae77a4a219680.8868016715251195621376.jpg" group-title="F1",Formula E
-d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN",DAZN 1 1080
 8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN",DAZN 1 720
@@ -73,24 +65,6 @@ c896d37778f9e43549a788fc22206a655895b51b
 c896d37778f9e43549a788fc22206a655895b51b  
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="M+ LigaTv Bar 1080" tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA",M+ LigaTv Bar 1080
 aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="Dazn La Liga 1080 Multi" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440,264&ssl=1" group-title="LIGA",Dazn La Liga 1080 Multi
-1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="Dazn La Liga 1080 Multi" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440,264&ssl=1" group-title="LIGA",Dazn La Liga 1080 Multi
-75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="Dazn La Liga 1080 Multi By Alex" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440,264&ssl=1" group-title="LIGA",Dazn La Liga 1080 Multi By Alex
-95b2238dec35cf00dfdf8fba18e9920bc2c56256
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="Dazn La Liga 720" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440,264&ssl=1" group-title="LIGA",Dazn La Liga 720
-a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="Dazn La Liga 2 1080 Multi" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440,264&ssl=1" group-title="LIGA",Dazn La Liga 2 1080 Multi
-93d663e92a93845b11c9831885646fa39ba1ed66
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="Dazn La Liga 2 720" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440,264&ssl=1" group-title="LIGA",Dazn La Liga 2 720
-05241e69091eedbb354f2651d30c83f40d1bb653
-#EXTINF:-1 tvg-id="DAZN LaLiga 3 HD" tvg-name="Dazn La Liga 3 720" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-3-color.png?fit=440,264&ssl=1" group-title="LIGA",Dazn La Liga 3 720
-8c71f0e0a5476e10950fc827f9d2a507340aba74 
-#EXTINF:-1 tvg-id="DAZN LaLiga 4 HD" tvg-name="Dazn La Liga 4 720" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-4-color.png?fit=440,264&ssl=1" group-title="LIGA",Dazn La Liga 4 720
-2792a8a5f4a3f53cd72dec377a2639cd12a6973e 
-#EXTINF:-1 tvg-id="DAZN LaLiga 5 HD" tvg-name="Dazn La Liga 5 720" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-5-color.png?fit=440,264&ssl=1" group-title="LIGA",Dazn La Liga 5 720
-99e544cddbee13798e854c1009ee7d1a93fdedf7
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga Hypermotion 1080 " tvg-logo="https://telegra.ph/file/443838291362ceb3f6962.jpg" group-title="LaLiga Hypermotion",LaLiga Hypermotion 1080 
 4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga Hypermotion 720" tvg-logo="https://telegra.ph/file/443838291362ceb3f6962.jpg" group-title="LaLiga Hypermotion",LaLiga Hypermotion 720
@@ -159,47 +133,3 @@ b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="M+Deportes 7 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="DEPORTES",M+Deportes 7 720
 2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 tvg-id="(DE) DAZN 1" tvg-name="(DE) DAZN 1" tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" group-title="Alemania",(DE) DAZN 1
-897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-id="(DE) DAZN 2" tvg-name="(DE) DAZN 2" tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762965573106_image-header_pDach_1662550976000" group-title="Alemania",(DE) DAZN 2
-12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-id="ext" tvg-name="La Huerfana primer asesinato (2022)6.8" tvg-logo="https://lh3.googleusercontent.com/4oqYLbHHK1iI5iMoUvrGUJ46URADwYUL-SzlUsYH7Vj5q-7Z7z5AyVQsCHWKbGis9JD12_SF1P6FMb5ycUNzKhCMp1bgmdRRC8FbylROompSo6AEbfbudYlDxHzYueLOXBN83Z7nKFk=w2400" group-title="",La Huerfana primer asesinato (2022)6.8
-71a0ad57d2343c140ff19167f57388a39fe2f472
-#EXTINF:-1 tvg-id="ext" tvg-name="Vecinos (2022)7.8" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/22/AAAABXUj1Oh7Y-KCT54pMzYw3VQxu-eO8Ukgf38rOvdf8bHF-8FuOClOyA8R45L3C7VvW4hCI8FnHv31Cik615M7LEL78pNz8YeZ1Sj96ifKLs_jWPEzep784CJF16pSP9UC_c2feQ.jpg/revision/latest?cb=20220904210628&path-prefix=es" group-title="",Vecinos (2022)7.8
-5391f639bbafababd32807d7aaa468c90dc9492c
-#EXTINF:-1 tvg-id="ext" tvg-name="Vecinos (2022)7.8" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/22/AAAABXUj1Oh7Y-KCT54pMzYw3VQxu-eO8Ukgf38rOvdf8bHF-8FuOClOyA8R45L3C7VvW4hCI8FnHv31Cik615M7LEL78pNz8YeZ1Sj96ifKLs_jWPEzep784CJF16pSP9UC_c2feQ.jpg/revision/latest?cb=20220904210628&path-prefix=es" group-title="",Vecinos (2022)7.8
-5391f639bbafababd32807d7aaa468c90dc9492c
-#EXTINF:-1 tvg-id="ext" tvg-name="DC Liga de supermascotas (2022)" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/dXL2iC7WXUqzRQmDJ3NfzQUisni.jpg" group-title="",DC Liga de supermascotas (2022)
-4dd4e8fc131bb08487ba156aa0617446471a7d00
-#EXTINF:-1 tvg-id="ext" tvg-name="John y el hoyo (2021)" tvg-logo="https://i.ytimg.com/vi/Un9F1IjVz3o/movieposter_en.jpg" group-title="",John y el hoyo (2021)
-5f9a1344cba281ae974e1d1fc0f800d9511d4f21
-#EXTINF:-1 tvg-id="ext" tvg-name="La Liga de la Justicia de Zack Snyder(2021)                                                                             " tvg-logo="https://decine21.com/img/upload/obras/la-liga-de-la-justicia-de-zack-snyder-43459/src/la-liga-de-la-justicia-de-zack-snyder-43459-c.jpg" group-title="",La Liga de la Justicia de Zack Snyder(2021)                                                                             
-62155011529c1af3fce93da333560c0b80fbaf65
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 05 de marzo - Gran Premio de Bhar?in " tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 05 de marzo - Gran Premio de Bhar?in 
-5c0a0e52f85740264284d773cf6ab2db582e8ed5
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 19 de marzo - Gran Premio de Arabia Saudita " tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 19 de marzo - Gran Premio de Arabia Saudita 
-6ca01b3e13256f911afb819dc86e72a112c8985d
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1 Carrera Sprin: 29 de abril - Gran Premio de Azerbaiyan" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1 Carrera Sprin: 29 de abril - Gran Premio de Azerbaiyan 
-29197791734d8efbf1ad141f2c8d8a4dc1ba70e1
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1 Carrera: 30 de abril - Gran Premio de Azerbaiyan" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1 Carrera: 30 de abril - Gran Premio de Azerbaiyan 
-d915c9899e6083f3fd731bdd065d622615cb1866
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 07 de Mayo - Gran Premio de Miami" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 07 de Mayo - Gran Premio de Miami 
-798fa38149e6873aeca1b680cd1c8d819a0d42fc
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 28 de Mayo - Gran Premio de Monaco" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 28 de Mayo - Gran Premio de Monaco 
-732c164b0934ea3a5badb7fe73fb26ef5d3a8597
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 04 de Junio - Gran Premio de Espana" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 04 de Junio - Gran Premio de Espana 
-c3290215518554e6cebdd979069dd4f67514bea9
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 18 de Junio - Gran Premio de Canada" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 18 de Junio - Gran Premio de Canada 
-aeff60d5b63713d311264ab26c259b967bbb50d6
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera Sprin: 01 de Julio - Gran Premio de Austria" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera Sprin: 01 de Julio - Gran Premio de Austria 
-2d30bc4584f6a0ded61bf92ec63e433cfd89ebc3
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 02 de Julio - Gran Premio de Austria" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 02 de Julio - Gran Premio de Austria 
-0e466cd2e33308ace7851a57794aa04bbe14071f
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 09 de Julio - Gran Premio de Reino Unido" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 09 de Julio - Gran Premio de Reino Unido 
-73a6596f2d8d0aecb3fd23088caff7f3622f5c3b
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 23 de Julio - Gran Premio de Hungria" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 23 de Julio - Gran Premio de Hungria 
-f0381cc6366770b44650eaf18bff09f7d10c5401
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera Sprin: 29 de Julio - Gran Premio de Belgica" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera Sprin: 29 de Julio - Gran Premio de Belgica 
-0cf43c254b0a245f77349b94181911a4f62d0878
-#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 30 de Julio - Gran Premio de Belgica" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 30 de Julio - Gran Premio de Belgica 
-efb117521907fe2a9f4268285e87c92ce62aec4f
