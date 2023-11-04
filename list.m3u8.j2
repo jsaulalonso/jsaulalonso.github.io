@@ -1,0 +1,5 @@
+#EXTM3U
+{% for element in dest_list -%}
+#EXTINF:-1 ,{{ element['name'] -}}
+{{ element['id'] -}}
+{%- endfor -%}
