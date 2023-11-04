@@ -3,7 +3,8 @@
 from jinja2 import Environment, FileSystemLoader
 
 CHANNEL_PATTERN = 'http://127.0.0.1:6878/ace/getstream?id='
-CHANNELS_FILTER = ['DAZN F1', 'M+ Liga', 'LaLiga TV', 'M+ Deportes', 'DAZN 1 HD', 'DAZN 2 HD', 'DAZN 3 HD', 'DAZN 4 HD']
+
+CHANNELS_FILTER = ['DAZN F1', 'M+ Liga', 'LaLiga TV', 'M+ Deportes', 'DAZN 1 HD', 'DAZN 2 HD', 'DAZN 3 HD', 'DAZN 4 HD', 'DAZN LaLiga']
 
 src_file = open('src/channels.txt', 'r')
 
