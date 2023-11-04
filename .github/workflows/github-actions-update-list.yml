@@ -16,5 +16,6 @@ jobs:
         with:
           python-version: '3.11'
       - run: |
+          pip install jinja2
           python update_list.py
       - uses: stefanzweifel/git-auto-commit-action@v4
